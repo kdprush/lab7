@@ -11,7 +11,7 @@
   }
   
   #main-navbar ul {
-	list-style-type: none;
+	list-style-type: square;
 	margin: 0;
 	padding: 0;
 	position: relative;
